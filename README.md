@@ -32,6 +32,7 @@
     * branch : 每個分支(if、loop)在測試期間至少被執行一次
     * path : 所有可能性都參考(impossible)
     * 困難度 : path > branch > statement
-15. branch coverage 已經是金管會證交系統驗收標準
-16. boundary testing 邊界測試
-17. negative testing 無效輸入、錯誤處理
+14. branch coverage 已經是金管會證交系統驗收標準
+15. boundary testing 邊界測試
+16. negative testing 無效輸入、錯誤處理
+17. 可以用 vscode 的 live server 去看 html，或是用 https://jsfiddle.net/ 用瀏覽器看

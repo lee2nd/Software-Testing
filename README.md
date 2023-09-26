@@ -33,3 +33,5 @@
     * path : 所有可能性都參考(impossible)
     * 困難度 : path > branch > statement
 15. branch coverage 已經是金管會證交系統驗收標準
+16. boundary testing 邊界測試
+17. negative testing 無效輸入、錯誤處理

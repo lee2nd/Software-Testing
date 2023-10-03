@@ -36,15 +36,3 @@
 15. boundary testing 邊界測試
 16. negative testing 無效輸入、錯誤處理
 17. 可以用 vscode 的 live server 去看 html，或是用 https://jsfiddle.net/ 用瀏覽器看
-18. Test in isolation (單元測試)的幾個理由
-    * 執行速度更快、測試左移(自動化測試成本較低)
-    * 故障分析較容易
-    * 減少相依性(ex: 數據庫、API、外部服務)
-    * 定義良好的單元，使 code 更易於維護、擴展、理解
-    * 為回歸測試提供一個安全網，可以預防回歸
-    * 團隊合作中可以知道別人弄壞你什麼
-    * 促使團隊成員合作，開發者可以獨立處理分配到的單元，不互相干擾
-19. 3 個最常需要 mock 的 external dependencies
-    * mock API calls
-    * mock databases queries
-    * mock conditions difficult to generate in a test environment
